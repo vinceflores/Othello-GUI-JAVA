@@ -1,0 +1,24 @@
+
+
+.root {
+	-fx-background: #000;
+	-fx-text-fill: white;
+}
+
+.button{
+    /*-fx-text-fill: rgb(49, 89, 23);*/
+	-fx-background-color: #000;
+	-fx-text-fill: #fff;
+    -fx-border-color: rgb(49, 89, 23);
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
+}
+
+#text{
+	-fx-fill: white;
+}
+
+Text{
+	-fx-fill: white;
+}
+	
